@@ -1,0 +1,17 @@
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.csproj.AssemblyReference.cache
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.AssemblyInfoInputs.cache
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.AssemblyInfo.cs
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.csproj.CoreCompileInputs.cache
+F:\c#\TV OOP\bin\Debug\net7.0\TV OOP.exe
+F:\c#\TV OOP\bin\Debug\net7.0\TV OOP.deps.json
+F:\c#\TV OOP\bin\Debug\net7.0\TV OOP.runtimeconfig.json
+F:\c#\TV OOP\bin\Debug\net7.0\TV OOP.dll
+F:\c#\TV OOP\bin\Debug\net7.0\TV OOP.pdb
+F:\c#\TV OOP\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.csproj.CopyComplete
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.dll
+F:\c#\TV OOP\obj\Debug\net7.0\refint\TV OOP.dll
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.pdb
+F:\c#\TV OOP\obj\Debug\net7.0\TV OOP.genruntimeconfig.cache
+F:\c#\TV OOP\obj\Debug\net7.0\ref\TV OOP.dll

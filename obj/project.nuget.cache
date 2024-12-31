@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3m1WqA/Y+HU+2xyhjLgEmTO6EeM1qStdG5GwHoFNevQnVnvGJQqmavUssnitZqrQizN237UMhwGDVdUbiCYAA==",
+  "success": true,
+  "projectFilePath": "F:\\c#\\TV OOP\\TV OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.mahendru\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
